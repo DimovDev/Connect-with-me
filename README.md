@@ -17,8 +17,8 @@ I am a fullstack software engineer from Bulgaria
 <img align="left" alt="php" src="https://img.shields.io/badge/php%20-%2343853D.svg?&style=for-the-badge&logo=php&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="laravel" src="https://img.shields.io/badge/laravel%20-%2343853D.svg?&style=for-the-badge&logo=laravel&logoColor=white%22" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="html5" src="https://img.shields.io/badge/html%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white%22" />
+<img align="left" alt="css3" src="https://img.shields.io/badge/CSS%20-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white%22" />
+<img align="left" alt="spring" src="https://img.shields.io/badge/Linux%20-%2343853D.svg?&style=for-the-badge&logo=linux&logoColor=white%22" />
 <br>
 <br>
