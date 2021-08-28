@@ -14,7 +14,7 @@ I am a fullstack software engineer from Bulgaria
 <br>
 ## Expertise
 
-<img align="left" alt="php" src="https://img.shields.io/badge/php%20-%8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" alt="php" src="https://img.shields.io/badge/php%20-%136146191.svg?&style=for-the-badge&logo=php&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="laravel" src="https://img.shields.io/badge/laravel%20-%2343853D.svg?&style=for-the-badge&logo=laravel&logoColor=white%22" />
 <img align="left" alt="html5" src="https://img.shields.io/badge/html%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white%22" />
