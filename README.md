@@ -20,7 +20,7 @@ I am a fullstack software engineer from Bulgaria
 <img align="left" alt="html5" src="https://img.shields.io/badge/html%20-%2343853D.svg?&style=for-the-badge&logo=html5&logoColor=white%22" />
 <img align="left" alt="css3" src="https://img.shields.io/badge/CSS%20-%231877F2.svg?&style=for-the-badge&logo=css3&logoColor=white%22" />
 <img align="left" alt="linux" src="https://img.shields.io/badge/Linux%20-%231DA1F2.svg?&style=for-the-badge&logo=linux&logoColor=white%22" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/Linux%20-%8892bf.svg?&style=for-the-badge&logo=linux&logoColor=white%22" />
+<img align="left" alt="spring" src="https://img.shields.io/badge/MySql%20-%8892bf.svg?&style=for-the-badge&logo=sql&logoColor=white%22" />
 
 <br>
 <br>
